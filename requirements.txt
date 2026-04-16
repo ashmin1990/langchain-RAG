@@ -47,6 +47,7 @@ pypdf
 bs4
 tiktoken
 wikipedia
+youtube-transcript-api
 
 # Chroma DB
 langchain-chroma
